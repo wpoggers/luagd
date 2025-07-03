@@ -6,7 +6,7 @@ coordinates.y = spawnpoint.y
 coordinates.microscale = {x=coordinates.x*64, y=coordinates.y*64}
 --[[
   All textures should be 64*64 and should go in the assets folder. in the worldMap table, place    type the name of the file, minus the .png. for example, johnpork.png would be "johnpork"
-  To easily edit the map, go and visit my scratch project. 
+  To easily edit the map, go and visit my scratch project:https://scratch.mit.edu/projects/1150260935/. 
 ]]
 worldMap={{}}
 for column=1, 256, 1 do
